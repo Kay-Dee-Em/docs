@@ -134,7 +134,7 @@ FROM nazwa_tabeli
 WHERE kolumna1 BETWEEN wartosc1 AND wartosc2;
 ```
 
-### 14. IS NULL
+### 15. IS NULL
 Sprawdza czy wartość jest pusta.
 
 ```sql
